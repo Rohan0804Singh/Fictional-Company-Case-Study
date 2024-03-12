@@ -21,6 +21,6 @@ In this case study, we will explore a database scenario for a fictional company 
 8) Write a SQL query that suggests three product recommendations to customers who have purchased products in the "Smartphones" category. The recommendations should be based on the purchasing history of other customers who bought products from the same category.
 
 ## Feedback and Support
-For any queries, feedback or suggestions related to Fictional Company Case Study, please reach out to:[rohan0804singh@gmail.com]
+For any queries, feedback or suggestions related to Fictional Company Case Study, please reach out to: rohan0804singh@gmail.com
 
 
