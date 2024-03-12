@@ -4,7 +4,6 @@ In this case study, we will explore a database scenario for a fictional company 
 ## Note
 1) Techmart is the name of schema and it consists of four tables which are required to solve the problems.
 2) The code mentioned in the file is written in Postgre SQL.You can change it according to your DBMS.
-3) The problem questions and SQL code to import dummy tables to solve the questions are given in the file.
 
 ## Tables 
 1) Products - Contains information about the electronic products sold by TechMart.
